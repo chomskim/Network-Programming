@@ -3,3 +3,4 @@
 
 <p>To use svg in messanger client import xmlparserv2.jar
 and it should be higher than jre libs</p>
+<p>Show using UDP send in trigger function with PL/Python</p>
